@@ -1,4 +1,4 @@
-# Natural_Language_Processing_Coursera
+# Natural_Language_Processing
 
 Run code directly on Google Colab
 
